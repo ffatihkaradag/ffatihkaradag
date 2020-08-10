@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... a special project
+- 🔭 I’m currently working on  a special project
 - 🌱 I’m currently learning vue
 <!--
 **ffthkrdg/ffthkrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
