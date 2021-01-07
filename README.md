@@ -16,13 +16,13 @@ I am a software developer who likes to improve myself and learn new software lan
 - FLUTTER ⭐️⭐️
 - REACTJS ⭐️⭐️
 
----
+--
 
 ####  🗣 Languages
 - Turkish
 - English
 
----
+-
 
 #### ☎️ Contact information
 [Twitter](https://twitter.com/ffatihkaradag)
