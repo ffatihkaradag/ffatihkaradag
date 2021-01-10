@@ -4,6 +4,13 @@ I am a software developer who likes to improve myself and learn new software lan
 
 - ✨ I’m currently working on special project.
 - 👩🏻‍💻 I’m currently learning Flutter
+
+<hr>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ffatihkaradag&count_private=true&theme=dark&show_icons=true" alt="fatih's Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffatihkaradag&show_icons=true&count_private=true&theme=dark&hide=ruby,swift,objective-c&langs_count=5" alt="fatih's languages">
+</p>
+
 <!--
 **ffthkrdg/ffthkrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### 🛠 Skills
