@@ -3,7 +3,7 @@
 
 - ✨ I’m currently working on special project.
 - 👨‍💻 All of my projects are available at [https://www.github.com/ffatihkaradag](https://www.github.com/ffatihkaradag)
-- 🔭 I’m currently learning **Flutter**
+- 🔭 I’m currently learning **DevOps ☁(AWS, Azure), Linux Server Admin, Docker, Kubernetes, Jenkins, Terraform**
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ffatihkaradag/)
 
 <h3 align="left">Languages and Tools:</h3>
