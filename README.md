@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fatih Karadağ</h1>
-<h3 align="center">I'm interested in Web & Mobile Programming</h3>
+<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h3 align="center">I'm Software Developer</h3>
 
 - ✨ I’m currently working on special project.
 - 👨‍💻 All of my projects are available at [https://www.github.com/ffatihkaradag](https://www.github.com/ffatihkaradag)
